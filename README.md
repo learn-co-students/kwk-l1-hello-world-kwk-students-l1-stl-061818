@@ -51,7 +51,7 @@ Confirm everything is working by running the `learn` command. You should see tha
 Note: When you write code, the case (uppercase/lowercase) of characters matters, and so your test will not pass unless you print "Hello World!" exactly. 
 
 ### Submitting Your Lab
-
+"Hello World!"
 Submit your solution by typing `learn submit` into your terminal, then click Next Lesson to move on.
 
 Your adventure in Ruby has only just begun!
